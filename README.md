@@ -1,5 +1,6 @@
 ### exploits and tools 💸
-
+______________________________________________________________________________________________________________________________
+Mostly known for making 1337 zero-day exploits.
 <!--
 **dock0d1/dock0d1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

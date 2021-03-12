@@ -1,6 +1,6 @@
-### Exploits && Tools 💸
+### 171 && PROGRAMMER AND HACKER 💸
 ______________________________________________________________________________________________________________________________
-Mostly known for making 1337 zero-day exploits.
+171 LBD CHECKERS & VENDAS DE CCS
 <!--
 **dock0d1/dock0d1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

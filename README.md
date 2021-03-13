@@ -1,6 +1,6 @@
-### 171 💸
+### Pesquisador de Segurança 💸
 ______________________________________________________________________________________________________________________________
-171 LBD CHECKERS & VENDAS DE CCS
+Venda de Contas -> Discord: dock0d1#8800
 <!--
 **dock0d1/dock0d1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
